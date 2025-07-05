@@ -1,41 +1,43 @@
-# Website
+# 📚 Wiki de Craftaria – Dépôt GitHub
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Bienvenue sur le dépôt GitHub du **Wiki Officiel du serveur Minecraft Craftaria** !
 
-### Installation
+Ce dépôt contient **l’ensemble des fichiers du wiki** visible sur :  
+🌐 [https://wiki.craftaria.fr](https://wiki.craftaria.fr)
 
-```
-$ yarn
-```
+---
 
-### Local Development
+## ✍️ Tu veux proposer un changement ?
 
-```
-$ yarn start
-```
+Que tu sois joueur, explorateur, ou expert de Craftaria, tu peux contribuer au wiki !
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+### ➡️ Comment faire ?
 
-### Build
+- Clique sur le fichier que tu veux modifier dans le dossier `/docs`
+- Clique sur le bouton **"Edit"** (icône crayon)
+- Propose ta modification
+- Envoie ta **Pull Request** (PR)
 
-```
-$ yarn build
-```
+Le staff vérifiera et pourra l’accepter ✅
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+---
 
-### Deployment
+## ❓ Pourquoi contribuer ?
 
-Using SSH:
+- Corriger une faute
+- Ajouter des infos utiles (métier, donjon, économie…)
+- Partager ton expérience de jeu
 
-```
-$ USE_SSH=true yarn deploy
-```
+Chaque aide est la bienvenue 🙏
 
-Not using SSH:
+---
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+## 🔗 Liens utiles
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- 📖 Wiki en ligne : [wiki.craftaria.fr](https://wiki.craftaria.fr)
+- 💬 Discord officiel : [discord.gg/craftaria](https://discord.gg/craftaria)
+
+---
+
+Merci pour ton aide 💚  
+Ce wiki évolue **grâce à vous, la communauté**.
