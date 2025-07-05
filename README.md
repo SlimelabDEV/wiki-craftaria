@@ -39,5 +39,5 @@ Chaque aide est la bienvenue 🙏
 
 ---
 
-Merci pour ton aide 💚  
+💚 Merci pour ton aide 💚  
 Ce wiki évolue **grâce à vous, la communauté**.
