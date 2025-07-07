@@ -15,17 +15,17 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 1. **🟢 Citoyen (grade de base)**  
    *Le grade de départ pour tous les joueurs.*
 
-2. **🐢 Tortue**  
+2. **🦸‍♂️ Héros**  
    *Un grade qui vous donne de nouveaux privilèges.*
 
-3. **🦊 Renard**  
-   *Un grade offrant davantage de possibilités, à l'image d'un renard astucieux.*
+3. **🏆 Légende**  
+   *Un grade offrant davantage de possibilités.*
 
-4. **🐼 Panda**  
-   *Accédez à des avantages plus puissants avec le grade Panda.*
+4. **🗿 Titan**  
+   *Accédez à des avantages plus puissants avec le grade Titan.*
 
-5. **🐼✨ Panda+**  
-   *La version améliorée du Panda, avec encore plus de bonus.*
+5. **✨ Titan+**  
+   *La version améliorée du Titan, avec encore plus de bonus.*
 
 :::tip
 💡 **Vous pouvez retrouver tous ces grades dans notre boutique** en tapant la commande `/boutique` dans le jeu pour consulter les prix et détails des avantages. Chaque contribution soutient directement le serveur et ses améliorations ! 🚀
@@ -34,7 +34,7 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 
 ### 🚀 Voici toutes les commandes disponibles pour chaque grade: 
 
-| Commande/Avantage          | Citoyen | Tortue | Renard | Panda | Panda+         |
+| Commande/Avantage          | Citoyen | Héros | Légende | Titan | Titan+         |
 |----------------------------|---------|---|---|---|----------------|
 | **Fly**                     | ❌      | ✅ | ✅ | ✅ | ✅ + au spawn   |
 | **Temps de fly nether**      | Aucun   | 1h/jour | 1h/jour | 1h/jour | 1h/jour        |
@@ -65,4 +65,4 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **Nombre de home**           | 5       | 15 | 25 | 50 | 50             |
 | **Coffre de shop**           | 10      | 20 | 25 | 25 | 25             |
 | **Salaire par heure**        | 50      | 100 | 150 | 200 | 200            |
-| **Kit**                     | Kit Citoyen | Kit Tortue | Kit Renard | Kit Panda | Kit Panda      |
+| **Kit**                     | Kit Citoyen | Kit Héros | Kit Légende | Kit Titan | Kit Titan      |
