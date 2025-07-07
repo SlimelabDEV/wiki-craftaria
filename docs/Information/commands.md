@@ -96,7 +96,7 @@ Voici la liste complète des commandes disponibles sur le serveur Craftaria. Ces
 
 ---
 
-## Commandes Guildes (Grade Panda requis) 🐼
+## Commandes Guildes (Grade Titan requis) 🛡️
 - **/g create** : Créer une guilde.
 - **/g delete** : Supprime votre guilde.
 - **/g prefix &lt;nom&gt;** : Change le préfix de guilde.
