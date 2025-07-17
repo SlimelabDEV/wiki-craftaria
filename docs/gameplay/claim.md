@@ -15,14 +15,13 @@ Commencez par vérifier si aucun claim n'est à moins de 100 blocs de vous, en e
 
 Si aucun claim n'est détecté, placez-vous au centre de l'endroit à protéger et tapez **/claim**. Choisissez ensuite l'une des options suivantes :
 
-![Options claim](/img/claim/claim.png)
+![Options claim](<img width="342" height="146" alt="image" src="https://github.com/user-attachments/assets/e1f94f7f-ec67-4a1b-b750-51a74e7e980a" />
+)
 
 - Un 10x10 → 5$
 - Un 50x50 → 25$
 - Un 100x100 → 500$
 - Un 200x200 → 2000$
-- Un 300x300 → 4500$
-- Un 400x400 → 8000$
 
 Les claims sont payants et **non remboursables** en cas de suppression.
 
