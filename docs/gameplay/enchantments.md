@@ -11,7 +11,7 @@ Vous pouvez acheter les enchantements dans la boutique du /donjon grâce aux cou
 
 ## Comment augmenter le taux de réussite ?
 
-Munisez-vous d'une clé donjon et allez affronter la horde de mobs pour avoir une chance d'obtenir des poussières.
+Munissez-vous d'une clé donjon et allez affronter la horde de mobs pour avoir une chance d'obtenir des poussières.
 Grâce à elle, vous pourrez augmenter le taux de réussite.
 
 
@@ -21,7 +21,7 @@ Grâce à elle, vous pourrez augmenter le taux de réussite.
 
 | **Enchantements**    | **Simple** | **Unique** | **Élite** | **Mythique** | **Légendaire** |
 |--------------------|------------|------------|-----------|--------------|----------------|
-| **Montant**        | 5000 Couronnes | 7500 Couronnes    | 9500 Couronnes  | 12500 Couronnes      | 50 Perles      |
+| **Montant**        | 5000 Couronnes | 7500 Couronnes    | 9500 Couronnes  | 12500 Couronnes      | 50 Joyaux     |
 | **Récompenses aléatoire**    | Enchantement Simple | Enchantement Unique | Enchantement Élite | Enchantement Mythique | Enchantement Légendaire |
 
 ---
@@ -322,6 +322,18 @@ Grâce à elle, vous pourrez augmenter le taux de réussite.
 | Plantation (carottes) I             | Houe            | Planter des carottes en 3x3                                                    | 3s       | 100%           | Avoir des carottes + clic droit                          |
 | Plantation (carottes) II            | Houe            | Planter des carottes en 3x3                                                    | 2s       | 100%           | Avoir des carottes + clic droit                          |
 | Plantation (carottes) III           | Houe            | Planter des carottes en 3x3                                                    | X        | 100%           | Avoir des carottes + clic droit                          |
+| Plantation (torche-fleur) I         | Houe            | Planter des torche-fleur en 3x3                                                | X        | 100%           | Avoir des torchefleur+ 
+clique droit                        |
+| Plantation (torche-fleur) II        | Houe            | Planter des torches-fleur en 3x3                                               | X        | 100%           | Avoir des torchefleur+
+clique droit                        |
+| Plantation (torche-fleur) III       | Houe            | Planter des torche-fleur en 3x3                                                | X        | 100%           | Avoir des torchefleur+
+clique droit                        | 
+| Plantation ( planturne) I           | Houe            | Planter des planturnes en 3x3                                                  | X        | 100%           | Avoir des planturnes+
+clique droit                        |
+Plantation   ( planturne) II          |                 | Planter des planturnes en 3x3                                                  | X        | 100%           | Avoir des planturnes+
+clique droit                        |
+Plantation   ( planturne) III         |                 | Planter des planturnes en 3x3                                                  | X        | 100%           | Avoir des planturnes+
+clique droit                        |
 | Jambes en gelée I                   | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 40%            | Équiper les bottes                                       |
 | Jambes en gelée II                  | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 80%            | Équiper les bottes                                       |
 | Jambes en gelée III                 | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 100%           | Équiper les bottes                                       |
@@ -464,6 +476,24 @@ Grâce à elle, vous pourrez augmenter le taux de réussite.
 | Hibou de nuit I                     | Épée            | Augmente les dégâts de 25% contre les mobs la nuit                             | X        | 40%            | Frapper un mob la nuit                                   |
 | Hibou de nuit II                    | Épée            | Augmente les dégâts de 35% contre les mobs la nuit                             | X        | 60%            | Frapper un mob la nuit                                   |
 | Hibou de nuit III                   | Épée            | Augmente les dégâts de 45% contre les mobs la nuit                             | X        | 80%            | Frapper un mob la nuit                                   |
+| Tranchée I                          | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 20%            | Casser un bloc
+                                 |
+| Tranchée II                         | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 30%            | Casser un bloc
+                                 |
+| Tranchée III                        | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 40%            | Casser un bloc
+                                 |
+| Tranchée IV                         | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 50%            | Casser un bloc
+                                 |
+| Tranchée V                          | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 60%            | Casser un bloc
+                                 |
+| Tranchée VI                         | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 70%            | Casser un bloc
+                                 |
+| Tranchée VII                        | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 80%            | Casser un bloc
+                                 |  
+| Tranchée VIII                       | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 90%            | Casser un bloc
+                                 |
+| Tranchée IX                         | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 100%           | Casser un bloc
+                                 |
 
 ---
 
@@ -569,7 +599,18 @@ Grâce à elle, vous pourrez augmenter le taux de réussite.
 | Lancement I             | Épée            | Projette en l'air de 8 unités | 15s | 20% | Clic droit |
 | Lancement II            | Épée            | Projette en l'air de 9 unités | 15s | 27% | Clic droit |
 | Lancement III           | Épée            | Projette en l'air de 10 unités | 10s | 35% | Clic droit |
+
 ---
+
+## Les enchantements Fabuleux
+
+
+| Cupidon I               | Épée            | Fait spawn un tourbillon de coeur en brandissant l'épée
+| Tranchée I              | Houe            | Casse une zone de 3x3
+| Petite Aide I           | Jambières       | Invoque des chauves-souris et des effets pour vous aidez à fuir
+| Haste I                 | Pioche, Pelle   | Donne un effet de haste permanent en tenant l'outil
+| _Quête des 7j_ ?        | ?               | ?
+
 
 :::important
 Ces enchantements apportent des avantages uniques sur le serveur et sont essentiels pour améliorer vos compétences en combat ou dans les tâches de minage et de récolte.
