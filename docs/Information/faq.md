@@ -82,6 +82,11 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ---
 
+## 🪐 Réinitialisation du monde ressource
+- **Réinitialisé** : Régénération entière tout les vendredis à 18h00.
+
+---
+
 ## 🚫 Toit du Nether
 - **Accès** : Interdit, constructions également interdites.
 
