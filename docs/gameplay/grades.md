@@ -38,9 +38,7 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 |----------------------------|---------|---|---|---|----------------|
 | **Fly**                     | ❌      | ✅ | ✅ | ✅ | ✅ + au spawn   |
 | **Temps de fly nether**      | Aucun   | 1h/jour | 1h/jour | 1h/jour | 1h/jour        |
-| **Surface de claims**        | 250 000 | 500 000 | 750 000 | 1 000 000 | 1 000 000      |
-| **/back**                   | ❌      | ✅ | ✅ | ✅ | ✅              |
-| **/emote**                  | ❌      | ✅ | ✅ | ✅ | ✅              |
+| **Surface de claims**        | 250 000 | 500 000 | 750 000 | 1 000 000 | 1 000 000      
 | **/craft**                  | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/ptime**                  | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/top**                    | ❌      | ✅ | ✅ | ✅ | ✅              |
@@ -51,16 +49,14 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/feed**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/skull**                  | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/repair**                 | ❌      | ❌ | ✅ | ✅ + /repairall | ✅ + /repairall |
-| **/glow**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
+| **/glow**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/four**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/tags**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/emoji**                  | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/anvil**                  | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/stonecutter**            | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/smithingtable**          | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/grindstone**             | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/loom**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/cartographytable**       | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/anvil**                  | ❌      | ❌ | ❌ | ❌  | ✅              |
+| **/stonecutter**            | ❌      | ❌ | ❌ | ❌  | ✅              |
+| **/smithingtable**          | ❌      | ❌ | ❌ | ❌  | ✅              |
+| **/grindstone**             | ❌      | ❌ | ❌ | ❌  | ✅              |
+| **/loom**                   | ❌      | ❌ | ❌ | ❌  | ✅              |
 | **Items au /ah**             | 25      | 50 | 75 | 100 | 100            |
 | **Nombre de home**           | 5       | 15 | 25 | 50 | 50             |
 | **Coffre de shop**           | 10      | 20 | 25 | 25 | 25             |
