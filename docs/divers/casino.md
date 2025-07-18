@@ -18,11 +18,11 @@ Vous pouvez utiliser la commande `/casino` en jeu pour vous rendre directement a
 Il y a trois types de clés qui s'offrent à vous au casino.  
 **Pour les obtenir, vous devez faire un clic droit sur un des PNJ correspondant à vos envies d'achats.**
 
-| **Clé**               | **Prix**        | **Récompenses**   |
+| **Clé**               | **Prix**        | **Récompenses**    |
 |-----------------------|-----------------|-------------------|
-| 💸 **Clé 10 000$**     | 10 000$         | 100 000$          |
-| 💵 **Clé 100 000$**    | 100 000$        | 1 000 000$        |
-| 💰 **Clé 1 000 000$**  | 1 000 000$      | 10 000 000$       |
+| 💸 **Clé 10 000$**     | 1 000$         | 100 000$          |
+| 💵 **Clé 100 000$**    | 10 000$        | 100 000$          |
+| 💰 **Clé 10 000 000$** | 1 000 000$     | 10 000 000$       |
 
 
 :::tip
