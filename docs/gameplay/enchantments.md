@@ -11,14 +11,13 @@ Contrairement aux enchantements classiques de Minecraft, ceux-ci sont **plus var
 
 Pour obtenir ces enchantements, vous devez passer par les **Donjons**.
 
+:::important
+Ces enchantements apportent des avantages uniques sur le serveur et sont essentiels pour améliorer vos compétences en combat ou dans les tâches de minage et de récolte.
+:::
+
 ---
 
-# 🔑 Clés Donjon — À quoi servent-elles ?
-
-Pour entrer dans un Donjon, il vous faut une **Clé Donjon**.
-Sans clé → impossible de lancer un donjon.
-
-### 🎯 À quoi sert une Clé Donjon ?
+## 🎯 À quoi sert une Clé Donjon ?
 
 Elle vous donne accès à une partie où vous pourrez :
 
@@ -34,26 +33,13 @@ C’est **l’élément central** du système Donjon.
 
 ---
 
-## 🧩 Comment obtenir une Clé Donjon ?
-
-Vous avez **3 façons** :
-
-### 1️⃣ **Craft via des Fragments de Clé**
-
+### 🧩 Comment obtenir une Clé Donjon ?
 En terminant des **Missions Donjon**, vous obtenez des *Fragments de clé*.
-À la *Fabrication de Clés*, vous pouvez assembler ces fragments → **nouvelle clé obtenue**.
-
-### 2️⃣ **Récompenses de donjon**
-
-Parfois, après un donjon réussi, vous obtenez un fragment supplémentaire.
-
-### 3️⃣ **Boutique du Donjon**
-
-Disponible avec la monnaie du Donjon.
+À la *Fabrication de Clés*, vous pouvez assembler ces fragments → **clé donjon**.
 
 ---
 
-# 👑 Les Couronnes — La monnaie du système enchantements
+## 👑 Les Couronnes — La monnaie du système enchantements
 
 Pendant un donjon :
 
@@ -72,7 +58,7 @@ Les couronnes servent dans la boutique à acheter :
 
 ---
 
-# ⭐ Taux de réussite des enchantements
+## ⭐ Taux de réussite des enchantements
 
 Chaque livre d’enchantement possède un **taux de réussite** :
 la probabilité que l’enchantement fonctionne.
@@ -86,7 +72,7 @@ Grâce aux **Poussières Magiques**.
 
 ---
 
-## ✨ Comment obtenir des poussières magiques ?
+## ✨ Obtenir des poussières magiques
 
 1. Faites un donjon avec une **Clé Donjon**.
 2. Tuez des mobs → chance d’obtenir des **poussières secrètes**.
@@ -95,9 +81,9 @@ Grâce aux **Poussières Magiques**.
 
 ---
 
-# 🧙 Les différents services du menu /donjon
+## 🧙 Les différents services du /donjon
 
-### 🔧 **Boutique Donjon**
+### 🔧 Boutique Donjon
 
 Échangez vos Couronnes contre :
 
@@ -109,20 +95,20 @@ Grâce aux **Poussières Magiques**.
 
 ---
 
-### ⚙️ **Marchand d’enchantements**
+### ⚙️ Marchand d’enchantements
 
 Permet de **désenchanter** un livre pour obtenir des **poussières**.
 Utile si vous obtenez un enchantement qui ne vous intéresse pas.
 
 ---
 
-### 🧪 **Alchimiste**
+### 🧪 Alchimiste
 
 Permet de **fusionner deux livres identiques** pour en obtenir un meilleur.
 
 ---
 
-### 🔨 **Fabrication de Clés Donjon**
+### 🔨 Fabrication de Clés Donjon
 
 Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 
@@ -139,8 +125,9 @@ Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 * Fabrication = création de clés supplémentaires
 
 ---
+## 📚 **Objets de la boutique enchantements**
 
-## 📚 **Livres d’enchantement (non identifiés)**
+### 📚 **Livres d’enchantement (non identifiés)**
 
 | **Rareté**     | **Prix**         | **Récompense obtenue**           |
 | -------------- | ---------------- | -------------------------------- |
@@ -152,7 +139,7 @@ Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 
 ---
 
-# 📜 **Objets spéciaux**
+### 📜 **Objets spéciaux**
 
 | **Objet**               | **Prix**         | **Description**                                        |
 | ----------------------- | ---------------- | ------------------------------------------------------ |
@@ -162,7 +149,7 @@ Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 
 ---
 
-# 📊 **Traqueurs**
+### 📊 **Traqueurs**
 
 | **Traqueur**                    | **Prix**        | **Utilité**                            |
 | ------------------------------- | --------------- | -------------------------------------- |
@@ -172,7 +159,7 @@ Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 
 ---
 
-# 📘 **Missions**
+### 📘 **Missions**
 
 *(achetées avec des dollars $ et non des Couronnes)*
 
@@ -183,8 +170,9 @@ Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 | **Extrême**    | 10 000$  | Fragments de clé. |
 
 ---
+## Catégorie et rareté d’enchantement
 
-## Les enchantements Simple
+## 🟢 Les enchantements Simple
 
 
 | Enchantement Simple    | Adapté pour    | Description                                       | CoolDown | Taux de chance | Condition d'activation                                            |
@@ -229,7 +217,7 @@ Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 
 ---
 
-## Les enchantements Unique
+## 🔵 Les enchantements Unique
 
 
 | Enchantement Unique    | Adapté pour    | Description                                       | CoolDown | Taux de chance | Condition d'activation                                            |
@@ -311,7 +299,7 @@ Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 | Dévorer III           | Épée, Hache    | Chance de restaurer 1 de nourriture lorsque l'on tue un mob | X  | 20%            | Tuer un mob (passif ou hostile)                                   |
 ---
 
-## Les enchantements Elite
+## 🔵 Les enchantements Elite
 
 
 | Enchantement Elite     | Adapté pour    | Description                                       | CoolDown | Taux de chance | Condition d'activation                                            |
@@ -466,7 +454,7 @@ Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 | Aimant III             | Épée           | Chance d'attirer les joueurs frappés                 | 5s       | 100%           | Mettre un coup (joueur)                                             |
 ---
 
-## Les enchantements Mythiques
+## 🔴 Les enchantements Mythiques
 
 
 | Enchantement Mythique               | Adapté pour     | Description                                                                    | CoolDown | Taux de chance | Condition d'activation                                   |
@@ -655,7 +643,7 @@ clique droit                        |
 
 ---
 
-## Les enchantements Légendaires
+## 🟠 Les enchantements Légendaires
 
 
 | Enchantement Légendaire | Adapté pour les | Description | CoolDown | Taux de chance | Condition d'activation |
@@ -760,17 +748,4 @@ clique droit                        |
 
 ---
 
-## Les enchantements Fabuleux
-
-
-| Cupidon I               | Épée            | Fait spawn un tourbillon de coeur en brandissant l'épée
-| Tranchée I              | Houe            | Casse une zone de 3x3
-| Petite Aide I           | Jambières       | Invoque des chauves-souris et des effets pour vous aidez à fuir
-| Haste I                 | Pioche, Pelle   | Donne un effet de haste permanent en tenant l'outil
-| _Quête des 7j_ ?        | ?               | ?
-
-
-:::important
-Ces enchantements apportent des avantages uniques sur le serveur et sont essentiels pour améliorer vos compétences en combat ou dans les tâches de minage et de récolte.
-:::
 
