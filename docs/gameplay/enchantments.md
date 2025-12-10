@@ -4,25 +4,183 @@ sidebar_position: 3
 
 # 📚 Enchantements
 
-Vous pouvez acheter les enchantements dans la boutique du /donjon grâce aux couronnes que vous obtiendrez là-bas.
+Les enchantements sont des **améliorations spéciales** que vous pouvez appliquer sur vos armes, armures et outils.
+Ils apportent des effets puissants : dégâts bonus, protections avancées, capacités uniques…
 
+Contrairement aux enchantements classiques de Minecraft, ceux-ci sont **plus variés**, ont des **raretés**, et peuvent être **améliorés ou protégés**.
 
----
-
-## Comment augmenter le taux de réussite ?
-
-Munissez-vous d'une clé donjon et allez affronter la horde de mobs pour avoir une chance d'obtenir des poussières.
-Grâce à elle, vous pourrez augmenter le taux de réussite.
-
+Pour obtenir ces enchantements, vous devez passer par les **Donjons**.
 
 ---
 
-## Quels sont les prix des enchantements ?
+# 🔑 Clés Donjon — À quoi servent-elles ?
 
-| **Enchantements**    | **Simple** | **Unique** | **Élite** | **Mythique** | **Légendaire** |
-|--------------------|------------|------------|-----------|--------------|----------------|
-| **Montant**        | 5000 Couronnes | 7500 Couronnes    | 9500 Couronnes  | 12500 Couronnes      | 50 Joyaux     |
-| **Récompenses aléatoire**    | Enchantement Simple | Enchantement Unique | Enchantement Élite | Enchantement Mythique | Enchantement Légendaire |
+Pour entrer dans un Donjon, il vous faut une **Clé Donjon**.
+Sans clé → impossible de lancer un donjon.
+
+### 🎯 À quoi sert une Clé Donjon ?
+
+Elle vous donne accès à une partie où vous pourrez :
+
+* affronter des mobs,
+* gagner des **Couronnes 👑**,
+* obtenir des **poussières**,
+* avancer dans vos missions,
+* récolter des fragments pour créer d’autres clés.
+
+:::tip
+C’est **l’élément central** du système Donjon.
+:::
+
+---
+
+## 🧩 Comment obtenir une Clé Donjon ?
+
+Vous avez **3 façons** :
+
+### 1️⃣ **Craft via des Fragments de Clé**
+
+En terminant des **Missions Donjon**, vous obtenez des *Fragments de clé*.
+À la *Fabrication de Clés*, vous pouvez assembler ces fragments → **nouvelle clé obtenue**.
+
+### 2️⃣ **Récompenses de donjon**
+
+Parfois, après un donjon réussi, vous obtenez un fragment supplémentaire.
+
+### 3️⃣ **Boutique du Donjon**
+
+Disponible avec la monnaie du Donjon.
+
+---
+
+# 👑 Les Couronnes — La monnaie du système enchantements
+
+Pendant un donjon :
+
+1. Vous entrez avec une **Clé Donjon**.
+2. Vous tuez des mobs.
+3. Vous terminez la partie → vous gagnez des **Couronnes 👑**.
+
+Les couronnes servent dans la boutique à acheter :
+
+* Livres d’enchantement non identifiés
+* Poussières / Parchemins
+* Traqueurs (Mob / Bloc / Poisson)
+* Augmenteurs / protections d’enchantement
+
+➡️ Accès : **/donjon** ou **/boutique**
+
+---
+
+# ⭐ Taux de réussite des enchantements
+
+Chaque livre d’enchantement possède un **taux de réussite** :
+la probabilité que l’enchantement fonctionne.
+
+* **Taux élevé** → très bonnes chances de réussite
+* **Taux faible** → risque d’échec (et destruction du livre)
+
+### Comment augmenter ce taux ?
+
+Grâce aux **Poussières Magiques**.
+
+---
+
+## ✨ Comment obtenir des poussières magiques ?
+
+1. Faites un donjon avec une **Clé Donjon**.
+2. Tuez des mobs → chance d’obtenir des **poussières secrètes**.
+3. Transformez-les en **poussières magiques**.
+4. **Glissez-déposez** les poussières sur votre livre pour augmenter son taux.
+
+---
+
+# 🧙 Les différents services du menu /donjon
+
+### 🔧 **Boutique Donjon**
+
+Échangez vos Couronnes contre :
+
+* Livres d’enchantement (5 raretés)
+* Parchemin Noir
+* Augmenteur de Slots
+* Rune Protectrice
+* Traqueurs (Mob / Bloc / Poisson)
+
+---
+
+### ⚙️ **Marchand d’enchantements**
+
+Permet de **désenchanter** un livre pour obtenir des **poussières**.
+Utile si vous obtenez un enchantement qui ne vous intéresse pas.
+
+---
+
+### 🧪 **Alchimiste**
+
+Permet de **fusionner deux livres identiques** pour en obtenir un meilleur.
+
+---
+
+### 🔨 **Fabrication de Clés Donjon**
+
+Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
+
+---
+
+## 🔄 Résumé simple
+
+* **Clé Donjon** = entrée du donjon
+* Donjon = mobs + Couronnes + Poussières
+* Couronnes = achetez vos enchantements
+* Poussières = augmentez le taux de réussite
+* Alchimiste = fusion des livres
+* Marchand = recyclage de livres
+* Fabrication = création de clés supplémentaires
+
+---
+
+## 📚 **Livres d’enchantement (non identifiés)**
+
+| **Rareté**     | **Prix**         | **Récompense obtenue**           |
+| -------------- | ---------------- | -------------------------------- |
+| **Simple**     | 5 000 Couronnes  | Un livre enchanté **Simple**     |
+| **Unique**     | 8 000 Couronnes  | Un livre enchanté **Unique**     |
+| **Élite**      | 10 000 Couronnes | Un livre enchanté **Élite**      |
+| **Mythique**   | 15 000 Couronnes | Un livre enchanté **Mythique**   |
+| **Légendaire** | 20 000 Couronnes | Un livre enchanté **Légendaire** |
+
+---
+
+# 📜 **Objets spéciaux**
+
+| **Objet**               | **Prix**         | **Description**                                        |
+| ----------------------- | ---------------- | ------------------------------------------------------ |
+| **Parchemin Noir**      | 5 000 Couronnes  | Permet de retirer un enchantement d’un objet.          |
+| **Augmenteur de Slots** | 5 000 Couronnes  | Ajoute **+1 emplacement d’enchantement** sur un objet. |
+| **Rune Protectrice** ⭐  | 50 000 Couronnes | Empêche à 100% la perte de l’objet en cas de mort.     |
+
+---
+
+# 📊 **Traqueurs**
+
+| **Traqueur**                    | **Prix**        | **Utilité**                            |
+| ------------------------------- | --------------- | -------------------------------------- |
+| **Traqueur de blocs cassés**    | 2 500 Couronnes | Compte le nombre de blocs cassés.      |
+| **Traqueur de poissons pêchés** | 2 500 Couronnes | Compte le nombre de poissons pêchés.   |
+| **Traqueur de monstres tués**   | 2 500 Couronnes | Compte le nombre de monstres éliminés. |
+
+---
+
+# 📘 **Missions**
+
+*(achetées avec des dollars $ et non des Couronnes)*
+
+| **Difficulté** | **Prix** | **Récompense**    |
+| -------------- | -------- | ----------------- |
+| **Facile**     | 2 500$   | Fragments de clé. |
+| **Difficile**  | 5 000$   | Fragments de clé. |
+| **Extrême**    | 10 000$  | Fragments de clé. |
 
 ---
 
@@ -615,3 +773,4 @@ clique droit                        |
 :::important
 Ces enchantements apportent des avantages uniques sur le serveur et sont essentiels pour améliorer vos compétences en combat ou dans les tâches de minage et de récolte.
 :::
+
