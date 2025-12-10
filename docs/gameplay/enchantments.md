@@ -125,9 +125,9 @@ Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 * Fabrication = création de clés supplémentaires
 
 ---
-## 📚 **Objets de la boutique enchantements**
+## Objets de la boutique enchantements
 
-### 📚 **Livres d’enchantement (non identifiés)**
+### 📚 Livres d’enchantement (non identifiés)
 
 | **Rareté**     | **Prix**         | **Récompense obtenue**           |
 | -------------- | ---------------- | -------------------------------- |
@@ -139,7 +139,7 @@ Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 
 ---
 
-### 📜 **Objets spéciaux**
+### 📜 Objets spéciaux
 
 | **Objet**               | **Prix**         | **Description**                                        |
 | ----------------------- | ---------------- | ------------------------------------------------------ |
@@ -159,7 +159,7 @@ Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 
 ---
 
-### 📘 **Missions**
+### 📘 Missions
 
 *(achetées avec des dollars $ et non des Couronnes)*
 
@@ -747,5 +747,6 @@ clique droit                        |
 | Lancement III           | Épée            | Projette en l'air de 10 unités | 10s | 35% | Clic droit |
 
 ---
+
 
 
