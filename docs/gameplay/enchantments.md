@@ -66,7 +66,7 @@ la probabilité que l’enchantement fonctionne.
 * **Taux élevé** → très bonnes chances de réussite
 * **Taux faible** → risque d’échec (et destruction du livre)
 
-### Comment augmenter ce taux ?
+### ❓ Comment augmenter ce taux ?
 
 Grâce aux **Poussières Magiques**.
 
@@ -149,7 +149,7 @@ Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 
 ---
 
-### 📊 **Traqueurs**
+### 📊 Traqueurs
 
 | **Traqueur**                    | **Prix**        | **Utilité**                            |
 | ------------------------------- | --------------- | -------------------------------------- |
@@ -160,8 +160,7 @@ Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 ---
 
 ### 📘 Missions
-
-*(achetées avec des dollars $ et non des Couronnes)*
+Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 
 | **Difficulté** | **Prix** | **Récompense**    |
 | -------------- | -------- | ----------------- |
@@ -170,6 +169,7 @@ Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
 | **Extrême**    | 10 000$  | Fragments de clé. |
 
 ---
+
 ## Catégorie et rareté d’enchantement
 
 ## 🟢 Les enchantements Simple
@@ -747,6 +747,7 @@ clique droit                        |
 | Lancement III           | Épée            | Projette en l'air de 10 unités | 10s | 35% | Clic droit |
 
 ---
+
 
 
 
