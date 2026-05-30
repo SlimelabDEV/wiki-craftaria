@@ -1,7 +1,7 @@
 ---
 title: 🔧 Installer un mod sur Minecraft
 description: Guide complet pour installer des mods sur Minecraft Java Edition avec Forge, NeoForge ou Fabric. Compatible avec toutes les versions de Minecraft.
-----
+---
 
 # 🔧 Installer un mod sur Minecraft
 
@@ -13,10 +13,10 @@ Ce guide vous explique comment installer un mod sur Minecraft Java Edition en qu
 
 Avant de commencer, assurez-vous d'avoir :
 
-* Minecraft Java Edition installé
-* Java installé sur votre ordinateur
-* Un mod compatible avec votre version de Minecraft
-* Un chargeur de mods comme Forge, NeoForge ou Fabric
+- Minecraft Java Edition installé
+- Java installé sur votre ordinateur
+- Un mod compatible avec votre version de Minecraft
+- Un chargeur de mods comme Forge, NeoForge ou Fabric
 
 ## 📥 Télécharger un mod
 
@@ -24,9 +24,9 @@ La première étape consiste à télécharger le mod que vous souhaitez installe
 
 Avant le téléchargement, vérifiez toujours :
 
-* La version de Minecraft compatible
-* Le chargeur de mods requis
-* Les éventuelles dépendances nécessaires
+- La version de Minecraft compatible
+- Le chargeur de mods requis
+- Les éventuelles dépendances nécessaires
 
 Par exemple, un mod prévu pour Minecraft 1.21 avec Fabric ne fonctionnera généralement pas avec Forge.
 
@@ -38,19 +38,19 @@ La plupart des mods nécessitent un chargeur spécifique.
 
 Forge est le chargeur de mods le plus populaire.
 
-1. Téléchargez Forge pour votre version de Minecraft.
-2. Lancez l'installateur.
-3. Sélectionnez **Installer le client**.
-4. Attendez la fin de l'installation.
+- 1. Téléchargez Forge pour votre version de Minecraft.
+- 2. Lancez l'installateur.
+- 3. Sélectionnez **Installer le client**.
+- 4. Attendez la fin de l'installation.
 
 ### Fabric
 
 Fabric est souvent utilisé pour les mods légers et les optimisations.
 
-1. Téléchargez l'installateur Fabric.
-2. Lancez-le.
-3. Choisissez votre version de Minecraft.
-4. Cliquez sur **Installer**.
+- 1. Téléchargez l'installateur Fabric.
+- 2. Lancez-le.
+- 3. Choisissez votre version de Minecraft.
+- 4. Cliquez sur **Installer**.
 
 ### NeoForge
 
@@ -113,9 +113,9 @@ Vous pouvez installer plusieurs mods dans ce dossier tant qu'ils sont compatible
 
 Une fois le mod installé :
 
-1. Ouvrez le launcher Minecraft
-2. Sélectionnez le profil Forge, NeoForge ou Fabric
-3. Lancez le jeu
+- 1. Ouvrez le launcher Minecraft
+- 2. Sélectionnez le profil Forge, NeoForge ou Fabric
+- 3. Lancez le jeu
 
 Si tout est correctement installé, le mod sera chargé automatiquement au démarrage.
 
@@ -125,18 +125,18 @@ Si tout est correctement installé, le mod sera chargé automatiquement au déma
 
 Vérifiez que :
 
-* Le mod correspond à votre version de Minecraft
-* Vous utilisez le bon chargeur de mods
-* Toutes les dépendances sont installées
-* Aucun autre mod n'est incompatible
+- Le mod correspond à votre version de Minecraft
+- Vous utilisez le bon chargeur de mods
+- Toutes les dépendances sont installées
+- Aucun autre mod n'est incompatible
 
 ### Le mod n'apparaît pas
 
 Assurez-vous que :
 
-* Le fichier `.jar` est dans le dossier `mods`
-* Vous avez sélectionné le bon profil dans le launcher
-* Le mod est compatible avec votre version de Minecraft
+- Le fichier `.jar` est dans le dossier `mods`
+- Vous avez sélectionné le bon profil dans le launcher
+- Le mod est compatible avec votre version de Minecraft
 
 ### Message d'erreur lié à une dépendance
 
@@ -146,11 +146,20 @@ Lisez attentivement la page de téléchargement afin de vérifier les dépendanc
 
 ## 💡 Conseils
 
-* Téléchargez vos mods uniquement depuis des sites reconnus.
-* Vérifiez toujours la compatibilité des versions.
-* Sauvegardez vos mondes avant d'installer de nouveaux mods.
-* Installez les mods un par un afin d'identifier facilement les éventuels problèmes.
-* Évitez d'installer un grand nombre de mods sans tester votre jeu entre chaque ajout.
+- Téléchargez vos mods uniquement depuis des sites reconnus.
+- Vérifiez toujours la compatibilité des versions.
+- Sauvegardez vos mondes avant d'installer de nouveaux mods.
+- Installez les mods un par un afin d'identifier facilement les éventuels problèmes.
+- Évitez d'installer un grand nombre de mods sans tester votre jeu entre chaque ajout.
+
+## 🎮 Tester vos mods sur un serveur Minecraft
+Une fois votre mod installé, vous pouvez également le tester en multijoueur sur un serveur compatible.
+Si vous recherchez un serveur Minecraft francophone proposant une économie avancée, des métiers, des compétences, des donjons, des quêtes et de nombreuses fonctionnalités inédites, vous pouvez découvrir **Craftaria**.
+
+**Adresse du serveur :** `play.craftaria.fr`
+
+Avant de rejoindre un serveur avec des mods, vérifiez toujours que celui-ci est compatible avec votre version de Minecraft et les mods installés sur votre client.
+
 
 ## ✅ Conclusion
 
