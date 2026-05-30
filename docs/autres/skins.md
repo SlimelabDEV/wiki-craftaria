@@ -133,8 +133,10 @@ La plupart des skins modernes sont compatibles avec les deux modèles.
 
 ## 🌍 Utiliser votre skin sur un serveur Minecraft
 Une fois votre skin installé, celui-ci sera visible par les autres joueurs sur la plupart des serveurs Minecraft.
-Si vous recherchez un serveur Minecraft francophone pour montrer votre nouveau personnage, vous pouvez rejoindre **Craftaria** à l'adresse **play.craftaria.fr**.
+Si vous recherchez un serveur Minecraft francophone pour montrer votre nouveau personnage, vous pouvez rejoindre **Craftaria**.
 Le serveur propose notamment une économie entre joueurs, des métiers, des compétences, des quêtes, des donjons et de nombreuses activités pour progresser avec votre personnage personnalisé.
+
+**Adresse du serveur :** `play.craftaria.fr`
 
 ## ✅ Conclusion
 
