@@ -1,10 +1,10 @@
 ---
-title: 🏛️ Guide des Maisons
+title: 📈 Maisons & contrats
 description: Comprendre les Maisons, les contrats, les participations et les dividendes.
-sidebar_position: 11
+sidebar_position: 1
 ---
 
-# 🏛️ Les Maisons
+# 📈 Maisons & contrats
 
 Les **Maisons** représentent différents secteurs d'activité en rapport avec les métiers du serveur. Chaque Maison possède son propre budget, sa valeur de participation, ses dividendes et ses contrats.
 
@@ -12,26 +12,6 @@ En participant aux contrats, vous pouvez gagner des **participations**. Ces part
 
 :::info
 Les Maisons sont un système communautaire : plus les joueurs participent, plus les contrats avancent vite et plus l'économie des Maisons devient active.
-:::
-
-## 👷 Métiers personnels et Maisons
-
-![dev](https://i.ebayimg.com/images/g/nvQAAOSwmVZjD3HB/s-l1200.png)
-
-Les **Maisons** et les **métiers personnels** sont actuellement deux systèmes distincts.
-
-Les métiers personnels permettent de gagner de l'argent en réalisant différentes activités sur le serveur, tandis que les Maisons reposent sur les contrats, les participations et les dividendes.
-
-Par exemple :
-
-- vous pouvez exercer le métier de Mineur sans posséder de participations dans la Maison Mineur ;
-- vous pouvez posséder des participations dans la Maison Pêcheur sans pratiquer la pêche ;
-- les contrats sont ouverts à tous les joueurs, quel que soit leur métier favori.
-
-Les Maisons représentent avant tout un système économique communautaire. Les métiers personnels restent quant à eux un moyen de générer des revenus grâce à vos activités.
-
-:::info
-Pour le moment, les Maisons et les métiers personnels sont indépendants l'un de l'autre. Participer à une Maison ne modifie pas les gains de votre métier, et exercer un métier ne vous accorde pas automatiquement de participations dans une Maison.
 :::
 
 ## 📖 Ouvrir le menu des Maisons
@@ -186,3 +166,24 @@ Vendre vos participations vous donne de l'argent immédiatement, mais vous ne re
 - Regardez le budget et les dividendes avant de vendre.
 - Utilisez `/contrat` régulièrement pour voir si un objectif commun est actif.
 - Contribuez avec les autres joueurs pour terminer les contrats plus vite.
+
+## 👷 Métiers personnels et Maisons (en développement)
+
+![dev](https://i.ebayimg.com/images/g/nvQAAOSwmVZjD3HB/s-l1200.png)
+
+Les **Maisons** et les **métiers personnels** sont actuellement deux systèmes distincts.
+
+Les métiers personnels permettent de gagner de l'argent en réalisant différentes activités sur le serveur, tandis que les Maisons reposent sur les contrats, les participations et les dividendes.
+
+Par exemple :
+
+- vous pouvez exercer le métier de Mineur sans posséder de participations dans la Maison Mineur ;
+- vous pouvez posséder des participations dans la Maison Pêcheur sans pratiquer la pêche ;
+- les contrats sont ouverts à tous les joueurs, quel que soit leur métier favori.
+
+Les Maisons représentent avant tout un système économique communautaire. Les métiers personnels restent quant à eux un moyen de générer des revenus grâce à vos activités.
+
+:::info
+Pour le moment, les Maisons et les métiers personnels sont indépendants l'un de l'autre. Participer à une Maison ne modifie pas les gains de votre métier, et exercer un métier ne vous accorde pas automatiquement de participations dans une Maison.
+:::
+
