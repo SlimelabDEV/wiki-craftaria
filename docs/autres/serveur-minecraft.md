@@ -98,7 +98,8 @@ Vous pouvez y modifier :
 - Le niveau de protection du spawn
 - La distance d'affichage
 
-Redémarrez le serveur après chaque modification.
+Redémarrez le serveur après chaque modification. Evitez la commandes /reload.
+Certains plugins possèdent une commande pour recharger directement la configuration du plugin (exemple pour Essentials X : /plugins/Essentials/config.yml, la commande /ess reload rechargera les fichiers de configuration.). - Le redémarrage reste tout de même la meilleure solution pour éviter tout problème !
 
 ## 🧩 Ajouter des plugins
 
