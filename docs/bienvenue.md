@@ -5,10 +5,6 @@ title: 👋 Bienvenue
 
 # 👋 Bienvenue sur le wiki officiel de Craftaria
 
-<p align="center">
-  <img src="/img/background/welcome-background.png" alt="Paysage de Craftaria" />
-</p>
-
 Bienvenue sur **Craftaria** !
 
 Tu trouveras ici toutes les infos utiles pour bien débuter, progresser tranquillement et comprendre les systèmes du serveur. Que tu sois nouveau joueur, habitué du serveur ou juste en train de chercher une commande oubliée, ce wiki est là pour te guider.
