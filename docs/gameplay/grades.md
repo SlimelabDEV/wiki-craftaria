@@ -32,7 +32,7 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 :::
 ---
 
-### 🚀 Voici toutes les commandes disponibles pour chaque grade: 
+### 🚀 Voici toutes les commandes et avantages disponibles pour chaque grade:
 
 | Commande/Avantage          | Citoyen | Héros | Légende | Titan | Titan+         |
 |----------------------------|---------|---|---|---|----------------|
@@ -44,19 +44,24 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/top**                    | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/hat**                    | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **Récupérer spawner**        | ❌      | ❌ | ✅ | ✅ | ✅              |
-| **/speedfly**               | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/speedfly ou /sf**        | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/ext**                    | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/feed**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/skull**                  | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/repair**                 | ❌      | ❌ | ✅ | ✅ + /repairall | ✅ + /repairall |
 | **/glow**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/four**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/fourall**                | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/tags**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/anvil**                  | ❌      | ❌ | ❌ | ❌  | ✅              |
 | **/stonecutter**            | ❌      | ❌ | ❌ | ❌  | ✅              |
 | **/smithingtable**          | ❌      | ❌ | ❌ | ❌  | ✅              |
 | **/grindstone**             | ❌      | ❌ | ❌ | ❌  | ✅              |
 | **/loom**                   | ❌      | ❌ | ❌ | ❌  | ✅              |
+| **Accès aux Gadgets /cos**  | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **Accès aux Statuts /cos**  | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/glow+**                  | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/taille**                 | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **Items au /ah**             | 25      | 50 | 75 | 100 | 100            |
 | **Nombre de home**           | 5       | 15 | 25 | 50 | 50             |
 | **Coffre de market**         | 10      | 20 | 25 | 25 | 25             |
