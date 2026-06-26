@@ -36,7 +36,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ## 🏭 Spawners
 :::tip 💡
 - **Casser un spawner** : Nécessite un grade boutique, pas besoin d'une pioche spéciale.
-  :::
+:::
 
 ---
 
@@ -70,10 +70,10 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ---
 
-## 🚫 Double comptes
+## 🚫 Doubles comptes
 :::tip ⚠️
 - **Autorisation** : Non, sauf pour les membres d'une même famille jouant sur la même IP. Preuve via ticket.
-  :::
+:::
 
 ---
 
@@ -93,7 +93,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## 🪐 Réinitialisation du monde ressource
-- **Réinitialisé** : Régénération entière tout les vendredis à 18h00.
+- **Réinitialisé** : Régénération entière tous les vendredis à 18h00.
 
 ---
 
@@ -136,7 +136,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ## 🧱 Blocs claimables
 :::tip 🔒
 - **Limite par défaut** : Très élevée, possibilité d'augmenter jusqu'à 1,5 million avec un pack ville.
-  :::
+:::
 
 ---
 
@@ -169,5 +169,5 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## 🎨 Pack de texture
 :::tip 🖼️
-- **Problème de téléchargement** : Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressource".
-  :::
+- **Problème de téléchargement** : Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressources".
+:::

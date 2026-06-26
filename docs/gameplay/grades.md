@@ -38,7 +38,7 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 |----------------------------|---------|---|---|---|----------------|
 | **Fly**                     | ❌      | ✅ | ✅ | ✅ | ✅ + au spawn   |
 | **Temps de fly nether**      | Aucun   | 1h/jour | 1h/jour | 1h/jour | 1h/jour        |
-| **Surface de claims**        | 250 000 | 500 000 | 750 000 | 1 000 000 | 1 000 000      
+| **Surface de claims**        | 250 000 | 500 000 | 750 000 | 1 000 000 | 1 000 000      |
 | **/craft**                  | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/ptime**                  | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/top**                    | ❌      | ✅ | ✅ | ✅ | ✅              |
