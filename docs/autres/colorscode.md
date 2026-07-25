@@ -201,7 +201,7 @@ Ils permettent de créer des grades uniques, des menus attractifs, des annonces 
 Si vous souhaitez découvrir un serveur Minecraft francophone utilisant de nombreux systèmes personnalisés, vous pouvez rejoindre **Craftaria**.
 Le serveur propose notamment une économie entre joueurs, des métiers, des compétences, des quêtes, des donjons et de nombreuses activités dans un univers évolutif.
 
-**Adresse du serveur :** `play.craftaria.fr`
+**Adresse du serveur :** `go.craftaria.fr`
 
 ## ✅ Conclusion
 
