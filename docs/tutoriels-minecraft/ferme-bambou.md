@@ -1,16 +1,16 @@
 ---
-title: Ferme à bambou automatique dans Minecraft
+title: 🎋 Ferme à bambou automatique dans Minecraft
 description: Apprenez à automatiser la récolte du bambou avec des pistons, des observateurs et une collecte fiable dans Minecraft Java.
 sidebar_position: 5
 ---
 
-# Ferme à bambou automatique dans Minecraft
+# 🎋 Ferme à bambou automatique dans Minecraft
 
 Le bambou pousse rapidement et peut servir de combustible, de matériau de construction ou de base pour fabriquer des blocs et des planches de bambou. Une ferme automatique transforme cette croissance rapide en ressource régulière.
 
 Son fonctionnement ressemble à celui d'une ferme à canne à sucre : un observateur détecte la hauteur de la plante et déclenche un piston.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 - Du bambou
 - De la terre, de l'herbe ou un bloc compatible
@@ -23,7 +23,7 @@ Son fonctionnement ressemble à celui d'une ferme à canne à sucre : un observa
 
 L'eau n'est pas nécessaire à la croissance du bambou.
 
-## Étapes de construction
+## 🛠️ Étapes de construction
 
 1. Créez une rangée de blocs de plantation.
 2. Plantez un bambou sur chaque emplacement.
@@ -35,19 +35,19 @@ L'eau n'est pas nécessaire à la croissance du bambou.
 
 La partie basse du bambou doit rester intacte. Si le piston casse la base, vous devrez replanter manuellement.
 
-## Choisir la bonne collecte
+## 🧭 Choisir la bonne collecte
 
 Le bambou tombe souvent sur le bloc où il était planté. Un wagonnet à entonnoir circulant juste en dessous est donc plus fiable qu'un simple courant d'eau placé devant.
 
 Pour une petite ferme, quelques entonnoirs peuvent suffire. Pour une longue rangée, le wagonnet limite le nombre d'entonnoirs nécessaires.
 
-## Utiliser la production
+## ♻️ Utiliser la production
 
 Le bambou peut alimenter certains fours, mais sa durée de combustion individuelle est courte. Stockez-le en grande quantité ou transformez-le selon vos besoins avant de l'envoyer vers une chaîne de fours.
 
 Il est également utile pour fabriquer des échafaudages et les différentes variantes de bois de bambou.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### L'observateur déclenche trop tôt
 
@@ -61,11 +61,13 @@ Fermez l'avant et les côtés avec du verre ou des blocs pleins. Laissez seuleme
 
 Vérifiez que le wagonnet passe bien sous chaque bloc de plantation et que les entonnoirs pointent vers le coffre.
 
-## À retenir
+## ✅ À retenir
 
 Le bambou est l'une des cultures les plus simples à automatiser. Un module compact placé dans une zone chargée produit déjà suffisamment pour la plupart des usages.
 
 Comparez ce système avec la [ferme à canne à sucre](/docs/tutoriels-minecraft/ferme-canne-a-sucre) ou découvrez les autres [tutoriels Minecraft](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [le guide pour organiser le stockage des récoltes](/docs/tutoriels-minecraft/stockage-recoltes).
 
 ## 🌍 Rejoindre Craftaria
 

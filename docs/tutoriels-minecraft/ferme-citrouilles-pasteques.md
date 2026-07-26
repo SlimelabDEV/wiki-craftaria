@@ -1,16 +1,16 @@
 ---
-title: Ferme à citrouilles et pastèques automatique
+title: 🎃 Ferme à citrouilles et pastèques automatique
 description: Tutoriel Minecraft pour automatiser les citrouilles et les pastèques avec des tiges, des observateurs, des pistons et une collecte.
 sidebar_position: 7
 ---
 
-# Ferme à citrouilles et pastèques automatique
+# 🎃 Ferme à citrouilles et pastèques automatique
 
 Les citrouilles et les pastèques poussent à côté de leur tige. Cette particularité permet de détecter l'apparition du fruit, de le casser avec un piston puis de récupérer les objets sans replanter.
 
 Les citrouilles sont utiles pour les golems, les lanternes et certains échanges. Les pastèques servent à l'alimentation, aux potions et au commerce avec les villageois.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 - Des graines de citrouille ou de pastèque
 - De la terre labourée
@@ -23,7 +23,7 @@ Les citrouilles sont utiles pour les golems, les lanternes et certains échanges
 
 Prévoyez une source de lumière si la ferme se trouve sous terre.
 
-## Organiser les emplacements
+## 🗂️ Organiser les emplacements
 
 Chaque tige doit avoir un bloc libre adjacent où le fruit peut apparaître. Une disposition en alternance facilite l'installation des pistons et de la collecte.
 
@@ -37,13 +37,13 @@ Chaque tige doit avoir un bloc libre adjacent où le fruit peut apparaître. Une
 
 Testez un seul module avant de reproduire le motif sur toute une rangée.
 
-## Récupérer tous les objets
+## 📥 Récupérer tous les objets
 
 Lorsqu'un piston casse une pastèque, plusieurs tranches sont projetées. Les entonnoirs placés sur un seul côté peuvent en manquer une partie.
 
 Un wagonnet à entonnoir circulant sous les blocs de pousse récupère généralement mieux les objets. Des parois en verre empêchent aussi les pertes latérales.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Les tiges poussent, mais aucun fruit n'apparaît
 
@@ -57,11 +57,13 @@ L'observateur peut détecter une mauvaise mise à jour. Contrôlez son orientati
 
 Un piston ou un bloc mobile peut obstruer l'emplacement de pousse. Remettez le module dans son état initial et simplifiez le câblage.
 
-## À retenir
+## ✅ À retenir
 
 Cette ferme produit sans replantation et se duplique facilement. Son efficacité dépend surtout de la disposition des tiges et de la qualité de la collecte.
 
 Découvrez également la [ferme à miel automatique](/docs/tutoriels-minecraft/ferme-miel) ou revenez aux [tutoriels Minecraft](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [le composteur automatique](/docs/tutoriels-minecraft/composteur-poudre-os).
 
 ## 🌍 Rejoindre Craftaria
 

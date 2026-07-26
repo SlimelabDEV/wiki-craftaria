@@ -1,16 +1,16 @@
 ---
-title: Ferme à blé Minecraft simple et efficace
+title: 🌾 Ferme à blé Minecraft simple et efficace
 description: Apprenez à construire une ferme à blé dans Minecraft, à irriguer les cultures et à automatiser la récolte avec de l'eau.
 sidebar_position: 2
 ---
 
-# Ferme à blé Minecraft simple et efficace
+# 🌾 Ferme à blé Minecraft simple et efficace
 
 Une ferme à blé fournit de la nourriture, des graines et de quoi élever des vaches ou des moutons. Le modèle le plus fiable en début de partie utilise un champ irrigué et une récolte déclenchée par un courant d'eau.
 
 Il s'agit d'une ferme **semi-automatique** : les plantes poussent seules et l'eau les récolte, mais vous devez replanter les graines après chaque cycle.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 Pour un module simple, prévoyez :
 
@@ -25,7 +25,7 @@ Pour un module simple, prévoyez :
 
 La taille du champ peut être adaptée à votre base. Un seul bloc d'eau hydrate les terres labourées jusqu'à quatre blocs autour de lui.
 
-## Construire le champ
+## 🛠️ Construire le champ
 
 1. Créez une surface plane et placez l'eau au centre ou dans une rigole.
 2. Labourez la terre en restant dans la zone hydratée.
@@ -37,13 +37,13 @@ La taille du champ peut être adaptée à votre base. Un seul bloc d'eau hydrate
 
 Lorsque vous activez l'eau, le courant casse les cultures et pousse le blé ainsi que les graines vers la collecte. Coupez ensuite l'eau avant de replanter.
 
-## Améliorer le rendement
+## ⚙️ Améliorer le rendement
 
 Éclairez correctement toute la surface pour que le blé continue de pousser la nuit ou dans une salle fermée. Évitez de marcher ou de sauter sur la terre labourée, car elle peut redevenir un bloc de terre normal.
 
 La poudre d'os accélère la pousse, mais elle est rarement rentable sur un très grand champ. Utilisez-la plutôt lorsque vous avez besoin de blé immédiatement.
 
-## Erreurs fréquentes
+## ⚠️ Erreurs fréquentes
 
 ### L'eau laisse des objets dans le champ
 
@@ -57,11 +57,13 @@ Rapprochez-les d'une source d'eau. Une terre trop éloignée finit par perdre so
 
 Ajoutez de la lumière et laissez un peu d'espace entre plusieurs cultures différentes. Le temps de pousse reste aléatoire : une récolte uniforme n'arrive pas toujours.
 
-## À retenir
+## ✅ À retenir
 
 La ferme à blé avec récolte par eau est peu coûteuse, robuste et facile à agrandir. Pour une production entièrement automatisée, il faut passer à un système avec villageois, plus complexe et plus sensible aux règles du serveur.
 
 Retrouvez aussi le tutoriel sur la [ferme à carottes et pommes de terre](/docs/tutoriels-minecraft/ferme-carottes-pommes-de-terre) ou revenez à la liste des [tutoriels Minecraft](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [le guide pour bien irriguer un champ](/docs/tutoriels-minecraft/irrigation-cultures).
 
 ## 🌍 Rejoindre Craftaria
 

@@ -1,16 +1,16 @@
 ---
-title: Ferme à laine automatique dans Minecraft
+title: 🐑 Ferme à laine automatique dans Minecraft
 description: Construisez une ferme à laine automatique avec un mouton, un observateur, un distributeur de cisailles et un système de collecte.
 sidebar_position: 9
 ---
 
-# Ferme à laine automatique dans Minecraft
+# 🐑 Ferme à laine automatique dans Minecraft
 
 Un mouton tondu récupère sa laine lorsqu'il mange l'herbe d'un bloc. Un observateur peut détecter la transformation de cette herbe en terre et activer un distributeur rempli de cisailles.
 
 Ce module produit automatiquement la couleur de laine portée par le mouton. Pour obtenir plusieurs couleurs, construisez un module séparé pour chaque mouton teint.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 - Un mouton
 - Un bloc d'herbe
@@ -24,7 +24,7 @@ Ce module produit automatiquement la couleur de laine portée par le mouton. Pou
 
 L'herbe du module doit pouvoir repousser. Laissez des blocs d'herbe accessibles autour ou en dessous afin qu'elle se propage à nouveau.
 
-## Construire le module
+## 🛠️ Construire le module
 
 1. Placez le bloc d'herbe où restera le mouton.
 2. Installez un observateur orienté vers ce bloc.
@@ -37,13 +37,13 @@ L'herbe du module doit pouvoir repousser. Laissez des blocs d'herbe accessibles 
 
 Lorsque le mouton mange, l'observateur détecte le changement du bloc. Le distributeur utilise alors les cisailles et la laine tombe au sol, où le wagonnet la récupère.
 
-## Gérer les couleurs
+## ⚙️ Gérer les couleurs
 
 Teignez le mouton avant de le placer dans le module. La laine produite conservera cette couleur après chaque repousse.
 
 Si vous avez besoin des seize couleurs, alignez plusieurs modules. Gardez toutefois assez d'herbe entre eux pour que les blocs mangés puissent reverdir.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Le mouton ne récupère pas sa laine
 
@@ -57,11 +57,13 @@ Vérifiez son orientation et la présence de cisailles encore utilisables. Le mo
 
 Le wagonnet à entonnoir doit passer directement sous le bloc du mouton. Contrôlez aussi que l'entonnoir de déchargement pointe vers le coffre.
 
-## À retenir
+## ✅ À retenir
 
 La ferme à laine est facile à dupliquer et ne demande qu'un petit circuit. Sa vitesse dépend surtout de la repousse de l'herbe, donc évitez les modules trop serrés ou privés de lumière.
 
 Revenez au sommaire des [tutoriels Minecraft sur les fermes](/docs/tutoriels-minecraft) ou découvrez les pages propres au [serveur Craftaria](/docs/bienvenue).
+
+Pour aller plus loin, consultez aussi [la construction d’une grange](/docs/tutoriels-minecraft/construire-grange-animaux).
 
 ## 🌍 Rejoindre Craftaria
 

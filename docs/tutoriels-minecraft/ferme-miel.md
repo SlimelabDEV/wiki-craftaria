@@ -1,16 +1,16 @@
 ---
-title: Ferme à miel et rayons de miel automatique
+title: 🍯 Ferme à miel et rayons de miel automatique
 description: Apprenez à récolter automatiquement des fioles de miel ou des rayons de miel avec des abeilles, une ruche, un comparateur et un distributeur.
 sidebar_position: 8
 ---
 
-# Ferme à miel et rayons de miel automatique
+# 🍯 Ferme à miel et rayons de miel automatique
 
 Les abeilles remplissent leur ruche après avoir visité des fleurs. Lorsque le niveau de miel est maximal, un distributeur peut utiliser une fiole en verre ou des cisailles pour effectuer la récolte automatiquement.
 
 Le même module peut produire des fioles de miel ou des rayons, mais son contenu doit être adapté à la ressource recherchée.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 - Une ruche ou un nid d'abeilles
 - Des abeilles
@@ -24,7 +24,7 @@ Le même module peut produire des fioles de miel ou des rayons, mais son contenu
 
 Construisez la ferme dans un espace où les abeilles peuvent atteindre les fleurs et rentrer dans leur ruche.
 
-## Principe du détecteur
+## ⚙️ Principe du détecteur
 
 Le comparateur lit le niveau de miel de la ruche. Lorsque celle-ci est pleine, le signal peut activer un distributeur orienté directement vers sa face.
 
@@ -33,7 +33,7 @@ Le comparateur lit le niveau de miel de la ruche. Lorsque celle-ci est pleine, l
 
 Le niveau de la ruche revient ensuite à zéro et un nouveau cycle commence.
 
-## Étapes de construction
+## 🛠️ Étapes de construction
 
 1. Placez la ruche avec son entrée dégagée.
 2. Ajoutez des fleurs à proximité.
@@ -46,7 +46,7 @@ Le niveau de la ruche revient ensuite à zéro et un nouveau cycle commence.
 
 Lors d'une récolte manuelle, un feu de camp enfumé sous la ruche évite de provoquer les abeilles. Placez-le de manière à ne pas les blesser.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Les abeilles ne sortent pas
 
@@ -60,11 +60,13 @@ Vérifiez qu'il fait face à la ruche et qu'il contient le bon outil. Les cisail
 
 Prévoyez suffisamment d'emplacements libres. Un distributeur rempli uniquement de fioles vides peut se bloquer lorsqu'il doit recevoir la fiole de miel.
 
-## À retenir
+## ✅ À retenir
 
 Une ferme à miel est compacte, mais son rendement dépend du nombre d'abeilles, de la météo et du cycle jour-nuit. Commencez avec une ruche avant d'ajouter plusieurs modules.
 
 Consultez ensuite la [ferme à laine automatique](/docs/tutoriels-minecraft/ferme-laine) ou la liste complète des [tutoriels Minecraft](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [la pollinisation des cultures avec les abeilles](/docs/tutoriels-minecraft/abeilles-pollinisation-cultures).
 
 ## 🌍 Rejoindre Craftaria
 

@@ -1,4 +1,5 @@
 ---
+description: "Comprenez le marché des Tokens de Craftaria : prix variable, taxes, achats, ventes, échanges et stratégies liées à cette monnaie."
 sidebar_position: 13
 ---
 

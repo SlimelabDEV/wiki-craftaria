@@ -1,14 +1,14 @@
 ---
-title: Ferme à cactus automatique dans Minecraft
+title: 🌵 Ferme à cactus automatique dans Minecraft
 description: Construisez une ferme à cactus automatique, compacte et facile à agrandir avec un système de collecte adapté.
 sidebar_position: 6
 ---
 
-# Ferme à cactus automatique dans Minecraft
+# 🌵 Ferme à cactus automatique dans Minecraft
 
 Le cactus permet de fabriquer de la teinture verte et constitue une source d'expérience lorsqu'il est cuit. Sa récolte peut être automatisée sans piston ni observateur : la plante se casse dès qu'un bloc se trouve à côté de l'espace où elle tente de pousser.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 - Du sable
 - Des cactus
@@ -19,7 +19,7 @@ Le cactus permet de fabriquer de la teinture verte et constitue une source d'exp
 
 Le cactus détruit les objets qui le touchent. La circulation des objets doit donc les éloigner rapidement des plantes.
 
-## Construire la ferme
+## 🛠️ Construire la ferme
 
 1. Préparez une plateforme avec une rigole de collecte.
 2. Placez les blocs de sable en laissant un espace autour de chaque cactus.
@@ -30,19 +30,19 @@ Le cactus détruit les objets qui le touchent. La circulation des objets doit do
 
 Lorsque la plante grandit, sa nouvelle partie touche la barrière et se casse immédiatement. La base reste en place et recommence son cycle.
 
-## Espacer correctement les cactus
+## 📏 Espacer correctement les cactus
 
 Deux cactus ne peuvent pas pousser côte à côte. Laissez au moins un bloc d'écart horizontal et évitez les blocs pleins adjacents à la base.
 
 Vous pouvez superposer plusieurs étages, mais assurez-vous que les objets de l'étage supérieur tombent dans une zone d'eau et non sur un autre cactus.
 
-## Valoriser le cactus
+## ♻️ Valoriser le cactus
 
 Le cactus cuit dans un four donne de la teinture verte et de l'expérience. Une chaîne de fours peut traiter automatiquement la production, à condition de prévoir assez de combustible et de stockage.
 
 Sur un serveur multijoueur, vérifiez les règles concernant les grandes fermes et les chaînes de fours avant de multiplier les modules.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Une partie des cactus disparaît
 
@@ -56,11 +56,13 @@ Vérifiez qu'il est posé sur du sable et qu'aucun bloc ne touche directement se
 
 Divisez la plateforme en plusieurs canaux. Un courant trop long s'arrête avant la collecte.
 
-## À retenir
+## ✅ À retenir
 
 La ferme à cactus est économique et ne génère presque aucun signal de redstone. Sa principale difficulté est d'empêcher les objets récoltés d'être détruits par les cactus eux-mêmes.
 
 Poursuivez avec la [ferme à citrouilles et pastèques](/docs/tutoriels-minecraft/ferme-citrouilles-pasteques) ou consultez les autres [tutoriels Minecraft](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [la construction d’une serre agricole](/docs/tutoriels-minecraft/construire-serre-minecraft).
 
 ## 🌍 Rejoindre Craftaria
 
