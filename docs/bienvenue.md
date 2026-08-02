@@ -58,6 +58,7 @@ Le wiki évolue avec le serveur, donc certaines pages peuvent être complétées
 
 Tu as repéré une erreur ou une information manquante ?
 Tu peux proposer une correction via le dépôt GitHub [**SlimelabDEV/wiki-craftaria**](https://github.com/SlimelabDEV/wiki-craftaria) ou contacter l'équipe du serveur.
+Retrouve les joueurs qui améliorent le wiki sur la page [**Contributeurs du wiki**](/docs/Information/contributeurs).
 
 ---
 
