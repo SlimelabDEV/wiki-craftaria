@@ -166,5 +166,5 @@ La commande `/edebug` peut ne pas résoudre tous les soucis de l'item. Dans ce c
 
 ---
 
-## Commande du compte Premium ⭐
+## Commande du compte Premium ⭐⭐
 - **/premium** : Affiche les informations liées au compte Premium actif.
