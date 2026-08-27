@@ -54,6 +54,8 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/four**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/fourall**                | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/tags**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/wet**                    | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/wetall**                 | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **/anvil**                  | ❌      | ❌ | ❌ | ❌  | ✅              |
 | **/stonecutter**            | ❌      | ❌ | ❌ | ❌  | ✅              |
 | **/smithingtable**          | ❌      | ❌ | ❌ | ❌  | ✅              |
