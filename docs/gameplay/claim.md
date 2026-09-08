@@ -277,6 +277,17 @@ Le joueur doit accepter la demande pour devenir propriétaire.
 Un transfert change le propriétaire du claim. Vérifiez bien le pseudo avant de confirmer.
 :::
 
+## ⏳ Inactivité et conservation des constructions
+
+Le délai des claims et le nettoyage du terrain sont deux systèmes différents.
+
+- **Claim** : après plus de 60 jours sans connexion du chef ni d'aucun admin, la protection peut être supprimée. La connexion du chef ou d'un admin relance ce délai pour les claims qu'il gère ; celle d'un simple membre ne suffit pas.
+- **Terrain** : une zone restée inactive pendant plus de 60 jours peut être régénérée, même si elle est protégée par un claim.
+
+:::danger
+Une connexion relance le délai de vos claims si vous êtes chef ou admin, mais elle ne protège pas les bases éloignées que vous ne visitez pas. Revisitez régulièrement l'ensemble de vos constructions.
+:::
+
 ## 🧨 Supprimer un claim
 
 Vous pouvez supprimer un claim depuis le menu de gestion.

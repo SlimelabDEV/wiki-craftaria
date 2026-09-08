@@ -85,7 +85,11 @@ Pour éviter les suppressions, évitez de concentrer trop d'animaux, monstres ou
 
 ## 🏠 Claims
 - **Hauteur du claim** : De -64 à 320 (couvre toute la coordonnée Y).
-- **Disparition d'un claim** : Possible après 2 mois d'inactivité du chef et des admins.
+- **Suppression pour inactivité** : Un claim peut être supprimé après plus de 60 jours sans connexion de son chef ni d'aucun de ses admins. Une connexion du chef ou d'un admin relance ce délai pour tous les claims qu'il gère ; la connexion d'un simple membre ne suffit pas.
+
+:::warning À ne pas confondre
+La suppression d'un claim et la régénération du terrain sont deux systèmes indépendants. Un claim peut encore exister alors que sa zone est concernée par le nettoyage du monde expliqué plus bas.
+:::
 
 ---
 
@@ -111,13 +115,18 @@ Pour éviter les suppressions, évitez de concentrer trop d'animaux, monstres ou
 
 ---
 
-## 🔄 Réinitialisation du Nether et de l'End
-- **Non réinitialisés** : Mais disposent d'une régénération automatique des chunks après 2 mois.
+## 🔄 Régénération automatique des zones
 
----
+Dans le monde normal, le Nether et l'End, une zone restée inactive pendant plus de 60 jours peut être régénérée automatiquement. Seule la zone concernée est régénérée, pas le monde entier.
 
-## 🌲 Réinitialisation du monde normal
-- **Non réinitialisé** : Régénération automatique tous les 2 mois.
+- Le délai concerne chaque zone, pas votre compte.
+- Une simple connexion ne suffit pas à conserver une base éloignée : il faut retourner sur place.
+- Pour une grande construction, parcourez régulièrement toute la zone.
+- Les zones protégées par un claim sont également concernées : le claim n'empêche pas la régénération.
+
+:::danger
+Pour conserver vos constructions, revisitez régulièrement toutes leurs zones, même si les claims sont toujours présents.
+:::
 
 ---
 
