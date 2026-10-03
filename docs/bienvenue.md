@@ -28,6 +28,7 @@ Si tu découvres le serveur, commence ici :
 
 Pour bien profiter de Craftaria, pense aussi à consulter :
 
+- 📚 [**Dex**](/docs/gameplay/dex) : collectionner tes souvenirs et échanger tes doubles.
 - 🛡️ [**Claims**](/docs/gameplay/claim) : protéger tes constructions.
 - 💫 [**Guildes**](/docs/gameplay/guilde) : jouer et progresser en groupe.
 - 💰 [**Tokens**](/docs/gameplay/tokens) : comprendre la monnaie spéciale.
