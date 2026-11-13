@@ -63,7 +63,6 @@ Rejoignez aussi la communauté sur le **Discord** : [**discord.gg/craftaria**](h
 - 🏡 [**Hôtel des ventes**](/docs/gameplay/hdv) : acheter et vendre des objets aux autres joueurs.
 - 🛒 [**Markets**](/docs/gameplay/market) : créer votre boutique sur un coffre et trouver les meilleures offres.
 - 📈 [**Maisons & contrats**](/docs/gameplay/maisons) : participer aux contrats et toucher des dividendes.
-- 💰 [**Tokens**](/docs/gameplay/tokens) : la monnaie spéciale dont la valeur dépend des joueurs.
 
 ### 🤝 Jouer ensemble
 
